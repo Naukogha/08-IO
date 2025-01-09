@@ -1,0 +1,10 @@
+Un vieil homme vous offre une potion. - Réussite
+Vous rencontrez un monstre dans la forêt. - 
+Vous tombez dans un piège. - Réussite
+Vous rencontrez un monstre dans la forêt. - 
+Vous rencontrez un monstre dans la forêt. - 
+Vous trouvez un coffre mystérieux. - Echec
+Vous êtes attaqué par des bandits. - Echec
+Vous tombez dans un piège. - Echec
+Vous tombez dans un piège. - Echec
+Vous rencontrez un monstre dans la forêt. - 

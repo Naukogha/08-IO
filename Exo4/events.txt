@@ -1,0 +1,5 @@
+Vous rencontrez un monstre dans la forêt.
+Vous trouvez un coffre mystérieux.
+Vous tombez dans un piège.
+Un vieil homme vous offre une potion.
+Vous êtes attaqué par des bandits.

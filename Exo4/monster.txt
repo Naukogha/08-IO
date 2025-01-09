@@ -1,0 +1,10 @@
+Gobelin,20,30
+Ogre,50,80
+Dragon,90,150
+Loup-garou,40,60
+Serpent Géant,30,50
+Squelette,25,35
+Vampire,60,70
+Géant des Collines,70,100
+Troll des Cavernes,80,120
+Araignée Géante,35,45
